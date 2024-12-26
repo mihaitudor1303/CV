@@ -14,7 +14,7 @@ This repository contains the source code for my online CV website. It includes H
 
 1. Clone the repository:
      ```
-     git clone https://github.com/yourusername/your-repo-name.git
+     git clone https://github.com/mihaitudor1303/CV
      ```
 
 2. Open `index.html` in your web browser to view the CV website.
