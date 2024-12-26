@@ -1,0 +1,102 @@
+body{
+    background-color: white;
+}
+
+/* Header */
+
+.header {
+  background-color: transparent;
+  display:flex;
+
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  border-color: blue;
+  border-radius: 5px;
+  border-style: solid;
+
+}
+
+.banner {
+    border-color: blueviolet;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.musicPlayer {
+    justify-content: flex-start;
+    border-color: palegreen;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+/* First Row including General Information , School , Work */
+.information {
+    border-color: palegreen;
+    border-radius: 5px;
+    border-style: solid;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.generalData {
+    width: 25%;
+    height: 350px;
+    border-color: palegreen;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.education {
+    width: 25%;
+    height: 350px;
+    border-color: palegreen;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.work {
+    width: 25%;
+    height: 350px;
+    border-color: palegreen;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+/* Second Row including hobbies , Skills , Interests and currently learning */
+.personal {
+    border-color: palegreen;
+    border-radius: 5px;
+    border-style: solid;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hobbies {
+    border-color: palegreen;
+    border-radius: 5px;
+    border-style: solid;
+    width: 25%;
+    height: 350px;
+}
+.skills {
+    width: 25%;
+    height: 350px;
+    border-color: palegreen;
+    border-radius: 5px;
+    border-style: solid;
+}
+.interests {
+    width: 25%;
+    height: 350px;
+    border-color: palegreen;
+    border-radius: 5px;
+    border-style: solid;
+}
+.learning {
+    width: 25%;
+    height: 350px;
+    border-color: palegreen;
+    border-radius: 5px;
+    border-style: solid;
+}
